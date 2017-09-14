@@ -1,5 +1,7 @@
 # Team Membership
+
 Stephen - Captain
+
 Yudhvir - First Mate
 
 ## Change Log (Newest Addition at top)
